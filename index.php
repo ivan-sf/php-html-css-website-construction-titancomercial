@@ -6,7 +6,7 @@ ini_set('display_errors', '1');
 //DIR
 define("DS", DIRECTORY_SEPARATOR);
 define("ROOT", realpath(dirname(__FILE__)) . DS);
-define('DIRAPP', 'titan-website');
+define('DIRAPP', 'index');
 define("URL", 'https://titancomercial.co/' . DIRAPP . "/");
 define("URL_SITIO", "#");
 define("TITLE_APP", "TITAN COMERCIAL");
