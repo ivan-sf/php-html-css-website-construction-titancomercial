@@ -13,7 +13,7 @@ define("TITLE_APP", "TITAN COMERCIAL");
 //DATABASE
 define('HOSTDB', 'mysql.hostinger.co');
 define('DB', 'u254469571_websitetitan');
-define('USERDB', 'u254469571_titanroot');
+define('USERDB', 'u254469571_websiteroot');
 define('PASSDB', 'Root1234');
 //INIT CONTROLLER AND METHOD
 define("INIT_CONTROLLER", "index");
