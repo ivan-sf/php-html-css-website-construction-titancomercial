@@ -15,14 +15,14 @@ class indexController
 	}
 	public function index()
 	{
-		$this->conexion = new Conexion;
-		$this->index->index();
-		echo "Hello friend on controller <br>";
-		if($this->conexion){
-			echo "Conexion a la bd desde controller <br>";
-		}else{
-			echo "no";
-		}
+		// $this->conexion = new Conexion;
+		// $this->index->index();
+		// echo "Hello friend on controller <br>";
+		// if($this->conexion){
+		// 	echo "Conexion a la bd desde controller <br>";
+		// }else{
+		// 	echo "no";
+		// }
 	}
 }
 
